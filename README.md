@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✈️ USA Flight Delay Analysis
+#  USA Flight Delay Analysis
 
 ###  Interactive Flight Delay Dashboard + Machine Learning Prediction App
 
