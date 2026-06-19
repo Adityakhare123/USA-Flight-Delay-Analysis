@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+models/*.pkl
+models/*.joblib
+models/metrics.json
+data/processed_usa_flight_delay.csv
