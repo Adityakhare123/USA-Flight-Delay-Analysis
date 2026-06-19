@@ -156,26 +156,6 @@ The app provides interactive visual analysis for:
 
 ---
 
-##  Tech Stack
-
-<div align="center">
-
-| Technology                                                                                                                                    | Purpose                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/> **Python**                 | Core programming language  |
-| <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="35"/> **Streamlit**                                              | Web app and dashboard UI   |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35"/> **Pandas**                 | Data cleaning and analysis |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35"/> **NumPy**                    | Numerical operations       |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="35"/> **Scikit-learn** | Machine learning model     |
-|  **Plotly**                                                                                                                                 | Interactive visualizations |
-|  **Joblib**                                                                                                                                 | Model saving and loading   |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/> **Git**                          | Version control            |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/> **GitHub**                 | Code hosting               |
-
-</div>
-
----
-
 ##  Project Structure
 
 ```text
@@ -227,20 +207,20 @@ Additional airport and runway datasets are used to enrich the analysis with airp
 
 ##  Installation & Setup
 
-### 1️⃣ Clone The Repository
+### 1️ Clone The Repository
 
 ```bash
 git clone https://github.com/Adityakhare123/USA-Flight-Delay-Analysis.git
 cd USA-Flight-Delay-Analysis
 ```
 
-### 2️⃣ Create Virtual Environment
+### 2️ Create Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### 3️⃣ Activate Virtual Environment
+### 3️ Activate Virtual Environment
 
 For Windows:
 
@@ -254,7 +234,7 @@ For macOS/Linux:
 source venv/bin/activate
 ```
 
-### 4️⃣ Install Dependencies
+### 4️ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -409,14 +389,5 @@ git push
 
 ---
 
-##  Support
-
-If you like this project, give it a  on GitHub.
-
-<div align="center">
-
-```text
-Made with  using Python, Streamlit, Plotly, and Machine Learning
-```
 
 </div>
