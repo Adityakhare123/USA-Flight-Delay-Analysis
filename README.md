@@ -2,7 +2,7 @@
 
 # ✈️ USA Flight Delay Analysis
 
-### 🚀 Interactive Flight Delay Dashboard + Machine Learning Prediction App
+###  Interactive Flight Delay Dashboard + Machine Learning Prediction App
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0E76A8&center=true&vCenter=true&width=900&lines=Analyze+USA+Flight+Delay+Patterns;Predict+Flight+Delay+Using+Machine+Learning;Visualize+Airline%2C+Airport%2C+Route+%26+Time+Insights;Built+with+Python+%2B+Streamlit+%2B+Plotly" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 About The Project
+##  About The Project
 
 **USA Flight Delay Analysis** is a data analytics and machine learning project built to analyze U.S. airline flight delay patterns and predict whether a selected flight is likely to be delayed.
 
@@ -31,30 +31,30 @@ The project includes a modern **Streamlit web application** where users can expl
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-🔗 **Live App:** Coming Soon
-📂 **GitHub Repository:** [USA Flight Delay Analysis](https://github.com/Adityakhare123/USA-Flight-Delay-Analysis)
-
----
-
-## 🎯 Project Objectives
-
-* 📊 Analyze U.S. airline flight delay data.
-* 🛫 Identify delay trends by airline, airport, route, weekday, time, and flight duration.
-* 🤖 Build a machine learning model to predict flight delays.
-* 📈 Create an interactive dashboard for users.
-* 🧠 Show data-based reason factors behind delay predictions.
-* 🌐 Prepare the project for live deployment using Streamlit.
+ **Live App:** Coming Soon
+ **GitHub Repository:** [USA Flight Delay Analysis](https://github.com/Adityakhare123/USA-Flight-Delay-Analysis)
 
 ---
 
-## ✨ Key Features
+##  Project Objectives
+
+*  Analyze U.S. airline flight delay data.
+*  Identify delay trends by airline, airport, route, weekday, time, and flight duration.
+*  Build a machine learning model to predict flight delays.
+*  Create an interactive dashboard for users.
+*  Show data-based reason factors behind delay predictions.
+*  Prepare the project for live deployment using Streamlit.
+
+---
+
+##  Key Features
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏠 Overview Dashboard</h3>
+      <h3> Overview Dashboard</h3>
       <ul>
         <li>Total flights analyzed</li>
         <li>Delayed flights count</li>
@@ -63,7 +63,7 @@ The project includes a modern **Streamlit web application** where users can expl
       </ul>
     </td>
     <td width="50%">
-      <h3>📊 Analytics Dashboard</h3>
+      <h3> Analytics Dashboard</h3>
       <ul>
         <li>Delay distribution pie charts</li>
         <li>Airline delay analysis</li>
@@ -74,7 +74,7 @@ The project includes a modern **Streamlit web application** where users can expl
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 Delay Predictor</h3>
+      <h3> Delay Predictor</h3>
       <ul>
         <li>ML-based delay prediction</li>
         <li>Prediction confidence score</li>
@@ -83,7 +83,7 @@ The project includes a modern **Streamlit web application** where users can expl
       </ul>
     </td>
     <td width="50%">
-      <h3>📂 Dataset Explorer</h3>
+      <h3> Dataset Explorer</h3>
       <ul>
         <li>Dataset preview</li>
         <li>Column information</li>
@@ -96,11 +96,11 @@ The project includes a modern **Streamlit web application** where users can expl
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 The project uses a **Random Forest Classifier** to predict whether a flight is delayed or not.
 
-### ✅ Model Input Features
+###  Model Input Features
 
 * Airline
 * Source airport
@@ -113,14 +113,14 @@ The project uses a **Random Forest Classifier** to predict whether a flight is d
 * Airport elevation
 * Runway count
 
-### 🎯 Prediction Output
+###  Prediction Output
 
 ```text
 0 = Not Delayed
 1 = Delayed
 ```
 
-### 📌 Current Model Accuracy
+###  Current Model Accuracy
 
 ```text
 64.71%
@@ -140,23 +140,23 @@ models/metrics.json
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights
 
 The app provides interactive visual analysis for:
 
-* 🥧 Delayed vs not delayed flights
-* ⏰ Delayed flights by time period
-* 🏢 Top airlines by delay rate
-* 📅 Delay rate by day of week
-* 🛫 Top source airports by delay rate
-* 🛬 Top destination airports by delay rate
-* 🧭 Top routes by delay rate
-* 📏 Delay rate by flight duration
-* 🧠 Delay reason/risk factor analysis
+*  Delayed vs not delayed flights
+*  Delayed flights by time period
+*  Top airlines by delay rate
+*  Delay rate by day of week
+*  Top source airports by delay rate
+*  Top destination airports by delay rate
+*  Top routes by delay rate
+*  Delay rate by flight duration
+*  Delay reason/risk factor analysis
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -167,8 +167,8 @@ The app provides interactive visual analysis for:
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35"/> **Pandas**                 | Data cleaning and analysis |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35"/> **NumPy**                    | Numerical operations       |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="35"/> **Scikit-learn** | Machine learning model     |
-| 📈 **Plotly**                                                                                                                                 | Interactive visualizations |
-| 💾 **Joblib**                                                                                                                                 | Model saving and loading   |
+|  **Plotly**                                                                                                                                 | Interactive visualizations |
+|  **Joblib**                                                                                                                                 | Model saving and loading   |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/> **Git**                          | Version control            |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/> **GitHub**                 | Code hosting               |
 
@@ -176,7 +176,7 @@ The app provides interactive visual analysis for:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 USA-Flight-Delay-Analysis/
@@ -206,7 +206,7 @@ USA-Flight-Delay-Analysis/
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The main dataset contains flight-level details.
 
@@ -225,7 +225,7 @@ Additional airport and runway datasets are used to enrich the analysis with airp
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone The Repository
 
@@ -262,7 +262,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Train The Model
+##  Train The Model
 
 Run this command:
 
@@ -279,7 +279,7 @@ models/metrics.json
 
 ---
 
-## ▶️ Run The Streamlit App
+##  Run The Streamlit App
 
 ```bash
 streamlit run app.py
@@ -293,7 +293,7 @@ http://localhost:8501
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```text
 streamlit
@@ -306,18 +306,18 @@ openpyxl
 
 ---
 
-## 🖥️ App Pages
+##  App Pages
 
 | Page                   | Description                           |
 | ---------------------- | ------------------------------------- |
-| 🏠 Overview            | Project summary and key metrics       |
-| 📊 Analytics Dashboard | Interactive charts and delay analysis |
-| 🤖 Delay Predictor     | ML-based flight delay prediction      |
-| 📂 Dataset Explorer    | Dataset preview and column summary    |
+|  Overview            | Project summary and key metrics       |
+|  Analytics Dashboard | Interactive charts and delay analysis |
+|  Delay Predictor     | ML-based flight delay prediction      |
+|  Dataset Explorer    | Dataset preview and column summary    |
 
 ---
 
-## 🔍 Delay Reason Analysis
+##  Delay Reason Analysis
 
 If actual delay reason columns like:
 
@@ -343,7 +343,7 @@ If these columns are not available, the app generates **data-based delay risk fa
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 This project can be deployed on:
 
@@ -367,7 +367,7 @@ app.py
 
 ---
 
-## ⚠️ Large File Note
+##  Large File Note
 
 The file `data/usa.csv` is larger than GitHub’s recommended file size limit.
 
@@ -383,20 +383,20 @@ git push
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-* 🌦️ Add real-time weather API integration
-* 🛫 Add live flight tracking API
-* 🧠 Improve accuracy using XGBoost or LightGBM
-* 📊 Add model comparison dashboard
-* 📄 Add downloadable prediction reports
-* 🌐 Deploy live app on Streamlit Cloud
-* 🔐 Add user authentication
-* 🧾 Add prediction history
+*  Add real-time weather API integration
+*  Add live flight tracking API
+*  Improve accuracy using XGBoost or LightGBM
+*  Add model comparison dashboard
+*  Add downloadable prediction reports
+*  Deploy live app on Streamlit Cloud
+*  Add user authentication
+*  Add prediction history
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 <div align="center">
 
@@ -409,14 +409,14 @@ git push
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you like this project, give it a ⭐ on GitHub.
+If you like this project, give it a  on GitHub.
 
 <div align="center">
 
 ```text
-Made with ❤️ using Python, Streamlit, Plotly, and Machine Learning
+Made with  using Python, Streamlit, Plotly, and Machine Learning
 ```
 
 </div>
