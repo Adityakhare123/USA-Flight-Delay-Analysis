@@ -30,15 +30,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0E76A8?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <a href="https://usa-flight-delay-analysis-kpv4ahwtxccdbq2jn2nnez.streamlit.app/">
+  <a href="https://github.com/Adityakhare123/USA-Flight-Delay-Analysis">
     <img src="https://img.shields.io/badge/GitHub-Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-Repository:
+Live:
 
 ```text
-https://github.com/Adityakhare123/USA-Flight-Delay-Analysis
+https://usa-flight-delay-analysis-kpv4ahwtxccdbq2jn2nnez.streamlit.app/
 ```
 
 ---
