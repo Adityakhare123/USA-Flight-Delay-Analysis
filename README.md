@@ -9,8 +9,11 @@
 </p>
 
 <p align="center">
+  <a href="https://usa-flight-delay-analysis-kpv4ahwtxccdbq2jn2nnez.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-0E76A8?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -29,16 +32,24 @@
 ## Live Project
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0E76A8?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <a href="https://usa-flight-delay-analysis-kpv4ahwtxccdbq2jn2nnez.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-0E76A8?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
   <a href="https://github.com/Adityakhare123/USA-Flight-Delay-Analysis">
     <img src="https://img.shields.io/badge/GitHub-Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-Live:
+Live App:
 
 ```text
 https://usa-flight-delay-analysis-kpv4ahwtxccdbq2jn2nnez.streamlit.app/
+```
+
+Repository:
+
+```text
+https://github.com/Adityakhare123/USA-Flight-Delay-Analysis
 ```
 
 ---
@@ -60,7 +71,7 @@ This project focuses on:
 * Building a machine learning model for flight delay prediction
 * Creating an interactive dashboard for users
 * Showing historical risk factors behind each prediction
-* Preparing the application for Streamlit Cloud deployment
+* Deploying the application using Streamlit Community Cloud
 
 ---
 
@@ -428,7 +439,7 @@ The current application can:
 * Add model comparison dashboard
 * Add downloadable prediction reports
 * Add prediction history
-* Deploy live Streamlit app
+* Improve deployed Streamlit app performance
 * Add more detailed delay reason datasets
 
 ---
