@@ -1,0 +1,54 @@
+{
+    "accuracy": 0.6470514501697007,
+    "features": [
+        "Airline",
+        "AirportFrom",
+        "AirportTo",
+        "DayOfWeek",
+        "Time",
+        "Length",
+        "type_source_airport",
+        "elevation_ft_source_airport",
+        "runway_count_source_airport",
+        "type_dest_airport",
+        "elevation_ft_dest_airport",
+        "runway_count_dest_airport"
+    ],
+    "confusion_matrix": [
+        [
+            39255,
+            17659
+        ],
+        [
+            18946,
+            27852
+        ]
+    ],
+    "classification_report": {
+        "0": {
+            "precision": 0.6744729472002199,
+            "recall": 0.6897248480163053,
+            "f1-score": 0.6820136385353777,
+            "support": 56914.0
+        },
+        "1": {
+            "precision": 0.6119839159763574,
+            "recall": 0.5951536390444037,
+            "f1-score": 0.6034514511044426,
+            "support": 46798.0
+        },
+        "accuracy": 0.6470514501697007,
+        "macro avg": {
+            "precision": 0.6432284315882886,
+            "recall": 0.6424392435303545,
+            "f1-score": 0.6427325448199102,
+            "support": 103712.0
+        },
+        "weighted avg": {
+            "precision": 0.6462760010106341,
+            "recall": 0.6470514501697007,
+            "f1-score": 0.6465639967640021,
+            "support": 103712.0
+        }
+    }
+}

@@ -1,3 +1,4 @@
+```gitignore
 venv/
 .venv/
 __pycache__/
@@ -5,7 +6,10 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .DS_Store
-models/*.pkl
-models/*.joblib
-models/metrics.json
+
+# Processed/generated data
 data/processed_usa_flight_delay.csv
+
+# Optional large unused dataset
+# data/usa.csv
+```
